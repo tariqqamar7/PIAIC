@@ -1,2 +1,2 @@
 # PIAIC
-Courser Material of AI Specialization Course
+Course Material of AI Specialization Course
